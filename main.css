@@ -1,0 +1,21 @@
+body {
+    padding-top: 150px;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+.pin {
+    width: 30px;
+    height: 70px;
+    border: 1px solid gray;
+}
+
+.black {
+    background: black;
+}
+
+.white {
+    background: white;
+}
